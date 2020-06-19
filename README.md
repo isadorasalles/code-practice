@@ -15,3 +15,11 @@ The graph algorithms I intend to implement are the following:
 * Bellman-Ford
 * Ford-Fulkerson
 
+# Areas of interest
+
+* Data Science
+* Machine Learning
+* Natural Language Processing
+* Algorithms
+* Competitive Programming
+
