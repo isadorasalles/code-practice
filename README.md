@@ -7,7 +7,9 @@ Repository to practice data structure, graph algorithms, dynamic programming and
 The graph algorithms I intend to implement are the following:
 
 • BFS
+
 • DFS
+
 • Prim
 • Kruskal
 • Dijkstra
