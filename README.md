@@ -24,3 +24,11 @@ The graph algorithms I intend to implement are the following:
 * Floyd-Warshall
 * Bellman-Ford
 * Ford-Fulkerson
+
+
+# Sorting Algorithms
+
+* Insertion Sort
+* Quick Sort
+* Merge Sort
+
