@@ -16,19 +16,21 @@ Repository to practice data structure, graph algorithms, dynamic programming and
 
 The graph algorithms I intend to implement are the following:
 
-* BFS
-* DFS
-* Prim
-* Kruskal
-* Dijkstra
-* Floyd-Warshall
-* Bellman-Ford
-* Ford-Fulkerson
+- [ ] BFS
+- [ ] DFS
+- [ ] Prim
+- [ ] Kruskal
+- [ ] Dijkstra
+- [ ] Floyd-Warshall
+- [ ] Bellman-Ford
+- [ ] Ford-Fulkerson
 
 
 # Sorting Algorithms
 
-* Insertion Sort
-* Quick Sort
-* Merge Sort
+- [x] Selection Sort
+- [x] Insertion Sort
+- [x] QuickSort
+- [ ] MergeSort
+- [ ] HeapSort
 
